@@ -15,7 +15,7 @@ Kotlin-Ext : Instant bindview
 ViewModel : Store UI-related data that isn't destroyed on app rotations
 LiveData :Build data objects that notify views when the underlying database changes
 
-##DI
+## DI
 Koin
 
 ### Http
