@@ -1,7 +1,7 @@
 # MVVM-Clean-Architecture
 
-**The MVVM  using Coroutine and Android Jetpack.**
-Jetpack + Coroutine + Koin 
+**The MVVM  using Coroutine and Android Jetpack + Koin.**
+
 
 ## ScreenShots
 <img width="200" height="360" src="https://i.ibb.co/K5TQQGj/Screenshot-1599706926.png"/>
