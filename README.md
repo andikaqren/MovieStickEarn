@@ -1,0 +1,25 @@
+# MVVM-Clean-Architecture
+
+**The MVVM  using Coroutine and Android Jetpack.**
+Jetpack + Coroutine + Koin 
+
+## ScreenShots
+<img width="200" height="360" src="https://ibb.co/9pQffv9"/>
+<img width="200" height="360" src="https://ibb.co/KFLtMSn"/>
+<img width="200" height="360" src="https://ibb.co/XJVMzth"/>
+
+## Android Jetpack
+Room : Access your app's SQLite database with in-app objects and compile-time checks
+Navigation: Handle everything needed for in-app navigation
+Kotlin-Ext : Instant bindview
+ViewModel : Store UI-related data that isn't destroyed on app rotations
+LiveData :Build data objects that notify views when the underlying database changes
+
+##DI
+Koin
+
+### Http
+Retrofit2: Type-safe HTTP client for Android and Java by Square, Inc
+
+### Others
+Glide: An image loading and caching library for Android focused on smooth scrolling
