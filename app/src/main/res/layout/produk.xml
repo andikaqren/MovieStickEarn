@@ -52,7 +52,7 @@
                     android:ellipsize="end"
                     android:fontFamily="sans-serif-smallcaps"
                     android:gravity="center"
-                    android:maxLength="30"
+                    android:maxLength="20"
                     android:text="@string/tv_series_title"
                     android:textColor="@color/white"
                     android:textStyle="bold" />
