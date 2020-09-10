@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/detail_frame_height"
+    android:background="@color/colorPrimaryDark">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_fav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="@dimen/_8sdp"
+
+        android:src="@drawable/ic_baseline_favorite_24" />
+
+
+
+    <ImageView
+        android:id="@+id/detailCover"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/posterMovie"
+        android:scaleType="fitXY" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_alignParentBottom="true"
+        android:background="#800C528B">
+
+
+        <ImageView
+            android:id="@+id/detailPoster"
+            android:layout_width="@dimen/mini_poster"
+            android:contentDescription="@string/posterMovie"
+            android:layout_height="@dimen/mini_poster"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="@dimen/mid_margin" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/mini_poster"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="@dimen/mid_margin"
+            android:layout_toEndOf="@id/detailPoster"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/detailTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:maxLength="20"
+                android:textColor="@color/white"
+                android:textSize="@dimen/medium_font"
+                android:textStyle="bold" />
+
+            <RatingBar
+                android:id="@+id/detailRating"
+                style="?android:attr/ratingBarStyleIndicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:isIndicator="true"
+                android:numStars="5"
+                android:rating="5"
+                android:stepSize="0.3"
+                android:theme="@style/RatingBar" />
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

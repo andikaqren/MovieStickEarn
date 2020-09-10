@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_margin">@dimen/_20sdp</dimen>
+    <dimen name="movies_size_bonus">@dimen/_190sdp</dimen>
+    <dimen name="mini_margin">@dimen/_5sdp</dimen>
+    <dimen name="movies_size_favorite">@dimen/_120sdp</dimen>
+    <dimen name="movies_size_small_favorite">@dimen/_90sdp</dimen>
+    <dimen name="movies_size">@dimen/_150sdp</dimen>
+    <dimen name="movies_size_small">@dimen/_120sdp</dimen>
+    <dimen name="medium_font">@dimen/_20sdp</dimen>
+    <dimen name="mid_margin">@dimen/_10sdp</dimen>
+    <dimen name="detail_frame_height">@dimen/_200sdp</dimen>
+    <dimen name="mini_poster">@dimen/_100sdp</dimen>
+    <dimen name="text_title">@dimen/_100sdp</dimen>
+    <dimen name="detail_title_size">@dimen/_20sdp</dimen>
+    <dimen name="large_margin">@dimen/_50sdp</dimen>
+</resources>

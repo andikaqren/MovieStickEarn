@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MovieStickEarn</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="tv_series_desc">Deskripsi</string>
+    <string name="tv_series_title">Tv Title</string>
+    <string name="popular">Popular Movies </string>
+    <string name="recent">Recent</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="no_movies">No  Movies </string>
+    <string name="no_movies_popular">No Popular Movies</string>
+    <string name="no_now_playing_movies">No Now Playing Movies</string>
+    <string name="youtube_name">Youtube Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="summary">Summary</string>
+    <string name="similiar_text">Similar Movies</string>
+    <string name="release_date">Release Date</string>
+    <string name="recomendation_movies">Recomendation Movies</string>
+    <string name="crew">Crew</string>
+    <string name="cast">Cast</string>
+    <string name="title">Title</string>
+    <string name="name">Name</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="home">Home</string>
+    <string name="favorit">Favorit</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="review_not_found">Review not ready yet</string>
+    <string name="review">Review</string>
+    <string name="author">Author</string>
+    <string name="content">Content</string>
+    <string name="emptyFavoriteList">Favorite List Still Empty</string>
+    <string name="preview">Preview</string>
+    <string name="copy">Copy to Clipboard</string>
+    <string name="share">Share</string>
+    <string name="posterMovie">Poster Movie</string>
+    <string name="popularMovie">Popular Movies (TMDB)</string>
+</resources>

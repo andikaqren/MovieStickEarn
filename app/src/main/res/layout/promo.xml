@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:layout_marginEnd="16dp"
+    android:orientation="vertical"
+    app:cardCornerRadius="8dp"
+    app:cardUseCompatPadding="true">
+
+    <ImageView
+        android:id="@+id/item_home_promo_iv"
+        android:layout_width="match_parent"
+        android:contentDescription="@string/posterMovie"
+        android:layout_height="match_parent"
+        android:background="@drawable/loading"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/item_home_promo_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom"
+        android:background="#800C528B"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/starText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="end"
+        android:layout_margin="@dimen/medium_margin"
+        app:drawableStartCompat="@drawable/ic_baseline_star_24"
+        android:fontFamily="cursive"
+        android:gravity="end|center_vertical"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/medium_margin"
+        android:fontFamily="cursive"
+        android:gravity="end|center_vertical"
+        android:text="@string/popularMovie"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+</androidx.cardview.widget.CardView>
