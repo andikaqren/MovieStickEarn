@@ -23,3 +23,4 @@
 
 ### Others
 * Glide: An image loading and caching library for Android focused on smooth scrolling
+* Shimmer: an Android library that provides an easy way to add a shimmer effect to any view
