@@ -16,10 +16,10 @@
 * LiveData :Build data objects that notify views when the underlying database changes
 
 ## DI
-Koin
+* Koin
 
 ### Http
-Retrofit2: Type-safe HTTP client for Android and Java by Square, Inc
+* Retrofit2: Type-safe HTTP client for Android and Java by Square, Inc
 
 ### Others
-Glide: An image loading and caching library for Android focused on smooth scrolling
+* Glide: An image loading and caching library for Android focused on smooth scrolling
