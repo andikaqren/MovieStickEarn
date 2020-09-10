@@ -4,8 +4,8 @@
 
 
 ## ScreenShots
-<img width="200" height="360" src="https://i.ibb.co/K5TQQGj/Screenshot-1599706926.png"/>
-<img width="200" height="360" src="https://i.ibb.co/bz24SDt/Screenshot-1599706603.png"/>
+<img width="200" height="360" src="https://i.ibb.co/QncCrYy/Screenshot-1599716559.png"/>
+<img width="200" height="360" src="https://i.ibb.co/86rxsQC/Screenshot-1599716562.png"/>
 <img width="200" height="360" src="https://i.ibb.co/ryvNZHC/Screenshot-1599706614.png"/>
 
 ## Android Jetpack
